@@ -141,7 +141,7 @@ if __name__ == "__main__":
         print(
             f"{i:<5} {movie_id:<6} {avg_rating:<18.2f} {rating_count:<15} {title[:50]}"
         )
-
+        
     # 3. Оценка системы
     print("\n3. ОЦЕНКА КАЧЕСТВА СИСТЕМЫ:")
     print("-" * 60)
